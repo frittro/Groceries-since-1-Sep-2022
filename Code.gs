@@ -19,7 +19,7 @@
  * @author FrittRo on {@link https://github.com/frittro|GitHub}.
  * @version 0.1
  * @copyright Robert Frittmann 2022
- * @license CC-BY-4.0
+ * @license CC0-1.0
  */
 
   /**
@@ -233,7 +233,7 @@ function onEdit(e){
  * @author FrittRo on {@link https://github.com/frittro|GitHub}.
  * @version 0.1
  * @copyright Robert Frittmann 2022
- * @license CC-BY-4.0
+ * @license CC0-1.0
  * 
  * @todo Conforming code to the Google JavaScript Style Guide. https://git.io/Jcqk2
  * @todo Conforming to Google Apps Script Best Practices. https://git.io/Jcqk1
@@ -274,7 +274,7 @@ function applyValidationToCell(listToApply = ["no items"],rangeToApply,thisCell,
  * @author FrittRo on {@link https://github.com/frittro|GitHub}.
  * @version 1.0
  * @copyright Robert Frittmann 2022
- * @license CC-BY-4.0
+ * @license CC0-1.0
  * @see {@link https://stackoverflow.com/a/72419394/19709446|StackOverflow} for the inspiration.
  * 
  * @param {String} sheetName The name of the sheet to search in.
@@ -298,7 +298,7 @@ function getColumnNumberByHeaderName(sheetName,headerName){
  * @author FrittRo on {@link https://github.com/frittro|GitHub}.
  * @version 0.1
  * @copyright Robert Frittmann 2022
- * @license CC-BY-4.0
+ * @license CC0-1.0
  * 
  * 
  */
